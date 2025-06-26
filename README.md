@@ -33,7 +33,7 @@
 ## 📫 Let's Connect
 
 I'm always open to collaboration and conversation.  
-Check out my portfolio at carlpaolino.com
+Check out my portfolio at <a href="http://carlpaolino.com">Visit My Portfolio</a>.
 Feel free to reach out via [LinkedIn](https://www.linkedin.com/) or explore my projects here on GitHub!
 
 ---
