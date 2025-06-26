@@ -24,15 +24,16 @@
 
 ## 🚀 What I'm Working On
 
-- 🧠 AI projects involving natural language processing and computer vision  
+- 🧠 An AI powered learning assistant to enhance studying
 - 🕹️ A 3D web game powered by Node.js backend  
-- 🛠️ A full-stack print farm management system (Print Hub) with live monitoring and slicing integration  
+- 🛠️ A full-stack ecommerce site
 
 ---
 
 ## 📫 Let's Connect
 
 I'm always open to collaboration and conversation.  
+Check out my portfolio at carlpaolino.com
 Feel free to reach out via [LinkedIn](https://www.linkedin.com/) or explore my projects here on GitHub!
 
 ---
